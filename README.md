@@ -1,8 +1,6 @@
 # Trust Region Competitive Policy Optimization (TRCoPO)
-This repository contains code of trust region competitve policy optimisation (TRCoPO) algorithm. The paper for competitive policy gradient can be found [here],
-The code for Competitive Policy Gradient (CoPG) algorithm can be found [here]. 
-
-[square brackets show link] (links will be added later, to keep it anonymous)
+This repository contains code of trust region competitve policy optimisation (TRCoPO) algorithm. The paper for competitive policy gradient can be found [here](https://arxiv.org/abs/2006.10611),
+The code for Competitive Policy Gradient (CoPG) algorithm can be found [here](https://github.com/manish-pra/copg). 
 
 ## Experiment videos are available [here](https://sites.google.com/view/rl-copo)
 ## Dependencies
