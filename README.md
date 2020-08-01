@@ -46,7 +46,7 @@ You can check results in the tensorboard.
 ## Experiment Demonstration
 ### &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  TRGDA vs TRGDA    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                  TRCoPO vs TRCoPO
 ### ORCA Car Racing
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;![](https://user-images.githubusercontent.com/37489792/84300401-87121a80-ab52-11ea-995b-3e62ebcddc0b.gif) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![](https://user-images.githubusercontent.com/37489792/84300407-88434780-ab52-11ea-8d47-c5f547594617.gif)
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;![](https://user-images.githubusercontent.com/37489792/84300401-87121a80-ab52-11ea-995b-3e62ebcddc0b.gif) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![](https://user-images.githubusercontent.com/37489792/84300407-88434780-ab52-11ea-8d47-c5f547594617.gif)
 ### Rock Paper Scissors
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37489792/84299773-96449880-ab51-11ea-8844-5bc6140ac88c.gif" width="350" height="250">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37489792/84299771-95ac0200-ab51-11ea-8841-a99fd98a0006.gif" width="350" height="250"> 
 
