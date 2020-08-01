@@ -48,7 +48,7 @@ You can check results in the tensorboard.
 ### ORCA Car Racing
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;![](https://user-images.githubusercontent.com/37489792/84300401-87121a80-ab52-11ea-995b-3e62ebcddc0b.gif) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![](https://user-images.githubusercontent.com/37489792/84300407-88434780-ab52-11ea-8d47-c5f547594617.gif)
 ### Rock Paper Scissors
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37489792/84299773-96449880-ab51-11ea-8844-5bc6140ac88c.gif" width="350" height="250">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37489792/84299771-95ac0200-ab51-11ea-8841-a99fd98a0006.gif" width="350" height="250"> 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37489792/84299773-96449880-ab51-11ea-8844-5bc6140ac88c.gif" width="350" height="250">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37489792/84299771-95ac0200-ab51-11ea-8841-a99fd98a0006.gif" width="350" height="250"> 
 
 ### Markov Soccer
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37489792/84299766-947ad500-ab51-11ea-9dda-1713584abaa0.gif" width="350" height="250">&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37489792/84299762-93e23e80-ab51-11ea-81e6-830e89e2ff10.gif" width="350" height="250"> 
